@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
 * Initial Commends
-        * Hello/ hi
-                 
+        
+        * Hello/ hi        
         * Change color to [Color name]
         * Increase text size
         * Decrease text size
